@@ -1,4 +1,4 @@
-# explicit_animations
+# implicit_animations
 
 A new Flutter project.
 
